@@ -1,0 +1,6 @@
+[17-Sep-2021 11:06:31 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 1048576 bytes) in /home/xiscebfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 357
+[17-Sep-2021 11:06:54 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 1048576 bytes) in /home/xiscebfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 357
+[17-Sep-2021 11:07:57 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 1048576 bytes) in /home/xiscebfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 357
+[17-Sep-2021 11:35:14 UTC] PHP Fatal error:  Maximum execution time of 1500 seconds exceeded in /home/xiscebfx/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php on line 63
+[17-Sep-2021 11:39:22 UTC] PHP Fatal error:  Maximum execution time of 1500 seconds exceeded in /home/xiscebfx/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php on line 63
+[28-Sep-2021 17:39:48 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\QuizController::update() in /home/xiscebfx/public_html/app/Http/Controllers/QuizController.php on line 287

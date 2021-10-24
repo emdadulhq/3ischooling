@@ -1,0 +1,54 @@
+.page {
+  padding: 20px 0;
+}
+
+.question {
+  background-color: #eee;
+  padding: 20px;
+}
+.question + .question {
+  margin-top: 20px;
+}
+.question h3 {
+  font-size: 1.2rem;
+}
+
+.f-list.answers {
+  padding: 0;
+}
+
+.answer {
+  align-items: center;
+  background-color: #fff;
+  display: flex;
+}
+.answer + .answer {
+  margin-top: 5px;
+}
+.answer label {
+  cursor: pointer;
+  display: block;
+  flex: 1;
+  padding: 10px;
+}
+.answer input[type=radio],
+.answer input[type=checkbox] {
+  margin: 0 10px 0 auto;
+}
+
+.show-score {
+  visibility: hidden;
+}
+.show-score.is-shown {
+  visibility: visible;
+}
+
+.correct {
+  background-color: #28a745;
+  color: white;
+}
+
+.incorrect {
+  background-color: #dc3545;
+  color: white;
+}
